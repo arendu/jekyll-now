@@ -9,7 +9,7 @@ name: arendu
 description: Research experiments log
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/avatar.jpg
+avatar: https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/avtar.jpg
 
 #
 # Flags below are optional
