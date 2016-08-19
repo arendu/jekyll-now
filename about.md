@@ -7,7 +7,7 @@ Hi, I am a PhD student in the Center for Language and Speech Processing (CLSP) a
 
 I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](http://www.cs.jhu.edu/~jason/). I also have worked with [Adam Lopez](http://alopez.github.io/) on finite automata based systems for machine translation and translation using Abstract Meaning Representations(AMR). 
 
-Before joining CLSP I worked on new modalities of user interaction at [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and had a brief stint as an NLP engineer at [MModal](https://mmodal.com/).
+Before joining CLSP I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/).
 
 ### Contact
 
