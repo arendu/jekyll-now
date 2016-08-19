@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hi, I am a PhD student in the Center for Language and Speech Processing (CLSP) at Johns Hopkins University. My primary research is in the inter-disciplinary area of Language Learning. Specifically building computational models for user modeling in the context of language learning. I am also interested in building models for grammar correction for language learners. I also work on Machine Translation; Specifically studying speed Vs. accuracy trade-offs in machine translation and interactive machine translation.
+Hi, I am a PhD student in the Center for Language and Speech Processing (CLSP) at Johns Hopkins University. My primary research is in building computational models for user modeling. Specifically user modeling in language learning. I apply techniques from Natural Language Processing (NLP), Machine Translation (MT) and Machine Learning (ML) towards this problem. I am also interested in building models for grammar correction for language learners. I also work on Machine Translation; Specifically studying speed Vs. accuracy trade-offs in machine translation and interactive machine translation.
 
 I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](http://www.cs.jhu.edu/~jason/). I also have worked with [Adam Lopez](http://alopez.github.io/) on finite automata based systems for machine translation and translation using Abstract Meaning Representations(AMR). 
 
