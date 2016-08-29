@@ -18,7 +18,7 @@ Here $$k$$ is the number of times action $$a$$ has already been selected i.e. in
 
 5. The logical extension is obviously selecting the action using the values of all the actions $$\mathcal{A}$$ at time $$t$$ and applying a _softmax_ over these values. This will result is a nice distribution over the actions. It's now perfectly reasonable to select or sample an action from this distribution. This is known as _softmax-action selction_.
 \begin{align}
-P(a) = \frac{\exp^{Q_t(a)/\tau}}{\sum_b \exp^{Q_t(b)/\tau}} 
+P(a) = \frac{\exp(Q_t(a)/\tau)}{\sum_b \exp(Q_t(b)/\tau)} 
 \end{align}
 Here $$\tau$$ is a hyperparameter called the _temperature_. As $$\tau$$ is increased the selection is more uniform and as tau is reduced the selection is more greedy.
 
