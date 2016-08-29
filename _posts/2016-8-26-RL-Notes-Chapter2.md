@@ -6,10 +6,6 @@ title: RL Notes Chapter 2
 Definitions:
 
 1. _Value_ of an _action_ is the mean expected reward obtained by performing that action.
-
-Some useful distinctions I found:
-[Difference between n-armed-bandit testing and A/B testing](http://conversionxl.com/bandit-tests/)
-
 2. Action-Value Methods: The value of taking the action $$a$$ at time $$t$$ is given by: 
 \begin{align} 
 Q_t(a) = \frac{r_1 + r_2 + \ldots + r_k}{k}
@@ -32,9 +28,11 @@ Here $$\tau$$ is a hyperparameter called the _temperature_. As $$\tau$$ is incre
 
 
 
-
-
+Some useful distinctions I found:
+[Difference between n-armed-bandit testing and A/B testing](http://conversionxl.com/bandit-tests/)
+<!--
 this is a test
+
 here are some latex equations.
 $$ a = b + c + \frac{1}{2}$$
 
@@ -50,3 +48,5 @@ $$ \begin{align}
 k  &= 2 \times \delta \\
 &= a + \mathbf{c}
 \end{align} $$
+--!>
+
