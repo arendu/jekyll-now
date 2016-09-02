@@ -30,15 +30,10 @@ Adithya Renduchintala, Ajita John, Shreeharsh Kelkar, and Doree Duncan-Seligmann
 Adithya Renduchintala, Aisling Lelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006
 
 ### Contact
-[adi.r@jhu.edu](mailto:adi.r@jhu.edu)
-
-[stackoverflow](http://stackoverflow.com/users/2320784/adi)
-
-[linkedin](https://www.linkedin.com/in/adithyarenduchintala)
-
-[github](https://github.com/arendu)
-
-[cv](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/resume.pdf)
-
-[selfie](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie.jpg)
+[adi.r@jhu.edu](mailto:adi.r@jhu.edu)  
+[stackoverflow](http://stackoverflow.com/users/2320784/adi)  
+[linkedin](https://www.linkedin.com/in/adithyarenduchintala)  
+[github](https://github.com/arendu)  
+[cv](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/resume.pdf)  
+[selfie](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie.jpg)  
 
