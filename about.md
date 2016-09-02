@@ -7,10 +7,6 @@ I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](
 
 Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/).
 
-### Contact
-
-[adi.r@jhu.edu](mailto:adi.r@jhu.edu)
-
 ### Publications
 [User Modeling in Language Learning with Macaronic Texts.](http://aclweb.org/anthology/P/P16/P16-1175.pdf)  
 Adithya Renduchintala, Rebecca Knowles, Philipp Koehn and Jason Eisner, Annual Meeting of the Association for Computational Linguistics (ACL), 2016.
@@ -32,4 +28,12 @@ Adithya Renduchintala, Ajita John, Shreeharsh Kelkar, and Doree Duncan-Seligmann
 
 [Creating serendipitous encounters in a geographically distributed community](http://sundaram.cs.illinois.edu/pubs/2006/hcm17-Renduchintala.pdf)  
 Adithya Renduchintala, Aisling Lelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006
+
+### Contact
+
+[adi.r@jhu.edu](mailto:adi.r@jhu.edu)
+[stack](http://stackoverflow.com/users/2320784/adi)
+[linkedin](https://www.linkedin.com/in/adithyarenduchintala)
+[github](https://github.com/arendu)
+[cv](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie.jpg)
 
