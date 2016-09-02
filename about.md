@@ -18,7 +18,7 @@ Adithya Renduchintala, Rebecca Knowles, Philipp Koehn and Jason Eisner, System D
 Rebecca Knowles, Adithya Renduchintala, Philipp Koehn and Jason Eisner, Conference on Computational Natural Language Learning (CoNLL), 2016. 
 
 [An Algerian Arabic-French Code-Switched Corpus.](https://ryancotterell.github.io/papers/cotterell+al.osact14.pdf)  
-Ryan Cotterell, Adithya Renduchintala, Naomi P. Saphra and Chris Callison-Burch. LREC-2014 Workshop on Free/Open-Source Arabic Corpora and Corpora Processing Tools. 2014. 
+Ryan Cotterell, Adithya Renduchintala, Naomi P. Saphra and Chris Callison-Burch. LREC Workshop on Free/Open-Source Arabic Corpora and Corpora Processing Tools. 2014. 
 
 [Using Machine Learning and HL7 LOINC DO for Classification of Clinical Documents.](https://knowledge.amia.org/amia-55142-a2013e-1.580047/t-06-1.582200/f-006-1.582201/a-439-1.582683/a-440-1.582680?qr=1)  
 Adithya Renduchintala, Amy Zhang, Thomas Polzin, Gilan Saadawi.AMIA, 2013. 
