@@ -9,25 +9,25 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 
 ### Publications
 [User Modeling in Language Learning with Macaronic Texts.](http://aclweb.org/anthology/P/P16/P16-1175.pdf)  
-**Adithya Renduchintala**, Rebecca Knowles, Philipp Koehn and Jason Eisner, Annual Meeting of the Association for Computational Linguistics (ACL), 2016.
+<small>**Adithya Renduchintala**, Rebecca Knowles, Philipp Koehn and Jason Eisner, Annual Meeting of the Association for Computational Linguistics (ACL), 2016.</small>  
 
 [Creating Interactive Macaronic Interfaces for Language Learning.](http://aclweb.org/anthology/P/P16/P16-4023.pdf)  
-**Adithya Renduchintala**, Rebecca Knowles, Philipp Koehn and Jason Eisner, System Description, Annual Meeting of the Association for Computational Linguistics (ACL), 2016.
+<small>**Adithya Renduchintala**, Rebecca Knowles, Philipp Koehn and Jason Eisner, System Description, Annual Meeting of the Association for Computational Linguistics (ACL), 2016.</small>  
 
 [Analyzing Learner Understanding of Novel L2 Vocabulary](http://aclweb.org/anthology/K/K16/K16-1013.pdf)  
-Rebecca Knowles, **Adithya Renduchintala**, Philipp Koehn and Jason Eisner, Conference on Computational Natural Language Learning (CoNLL), 2016. 
+<small>Rebecca Knowles, **Adithya Renduchintala**, Philipp Koehn and Jason Eisner, Conference on Computational Natural Language Learning (CoNLL), 2016.</small>  
 
 [An Algerian Arabic-French Code-Switched Corpus.](https://ryancotterell.github.io/papers/cotterell+al.osact14.pdf)  
-Ryan Cotterell, **Adithya Renduchintala**, Naomi P. Saphra and Chris Callison-Burch. LREC Workshop on Free/Open-Source Arabic Corpora and Corpora Processing Tools. 2014. 
+<small>Ryan Cotterell, **Adithya Renduchintala**, Naomi P. Saphra and Chris Callison-Burch. LREC Workshop on Free/Open-Source Arabic Corpora and Corpora Processing Tools. 2014.</small>  
 
 [Using Machine Learning and HL7 LOINC DO for Classification of Clinical Documents.](https://knowledge.amia.org/amia-55142-a2013e-1.580047/t-06-1.582200/f-006-1.582201/a-439-1.582683/a-440-1.582680?qr=1)  
-**Adithya Renduchintala**, Amy Zhang, Thomas Polzin, Gilan Saadawi.AMIA, 2013. 
+<small>**Adithya Renduchintala**, Amy Zhang, Thomas Polzin, Gilan Saadawi.AMIA, 2013.</small>  
 
 [Designing for persistent Audio Conversations in the Enterprise.](http://dl.acm.org/citation.cfm?doid=1389908.1389923)  
-**Adithya Renduchintala**, Ajita John, Shreeharsh Kelkar, and Doree Duncan-Seligmann. Design for User Experience. 2007.
+<small>**Adithya Renduchintala**, Ajita John, Shreeharsh Kelkar, and Doree Duncan-Seligmann. Design for User Experience. 2007.</small>  
 
 [Creating serendipitous encounters in a geographically distributed community](http://sundaram.cs.illinois.edu/pubs/2006/hcm17-Renduchintala.pdf)  
-**Adithya Renduchintala**, Aisling Lelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006
+<small>**Adithya Renduchintala**, Aisling Lelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006</small>  
 
 ### Contact
 [adi.r@jhu.edu](mailto:adi.r@jhu.edu)  
