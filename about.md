@@ -27,7 +27,7 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 *<small>**Adithya Renduchintala**, Ajita John, Shreeharsh Kelkar, and Doree Duncan-Seligmann. Design for User Experience. 2007.</small>*{: style="font-size: 75%"}   
 
 [Creating serendipitous encounters in a geographically distributed community](http://sundaram.cs.illinois.edu/pubs/2006/hcm17-Renduchintala.pdf)  
-*<small>**Adithya Renduchintala**, Aisling Lelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006</small>*{: style="font-size: 75%"}   
+*<small>**Adithya Renduchintala**, Aisling Kelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006</small>*{: style="font-size: 75%"}   
 
 ### Contact
 [adi.r@jhu.edu](mailto:adi.r@jhu.edu)  
