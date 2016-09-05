@@ -12,4 +12,4 @@ By changing the static size and cube pruning limit, we are effectivly controllin
 
 The following thumbnails can be opened in a interactive [bokeh](http://bokeh.pydata.org/en/latest/) environment.
 
-[![smiley](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.all.time.vs.score.png){: style="width: 200px;"}](https://raw.githubusercontent.com/arendu.github.io/master/images/speed-vs-acc-plots/de.all.time.vs.score.html)
+[![smiley](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.all.time.vs.score.png){: style="width: 200px;"}](https://raw.githubusercontent.com/arendu.github.io/master/images/speed-vs-acc-plots/de.all.time.vs.score.png)
