@@ -12,4 +12,4 @@ By changing the static size and cube pruning limit, we are effectivly controllin
 
 The following thumbnails can be opened in a interactive [bokeh](http://bokeh.pydata.org/en/latest/) environment.
 
-![smiley](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie.jpg =100px).
+![smiley](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie.jpg).
