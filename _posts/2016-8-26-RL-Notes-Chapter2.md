@@ -28,25 +28,5 @@ Here $$\tau$$ is a hyperparameter called the _temperature_. As $$\tau$$ is incre
 
 
 
-Some useful distinctions I found:
+Some useful distinctions I found:  
 [Difference between n-armed-bandit testing and A/B testing](http://conversionxl.com/bandit-tests/)
-<!--
-this is a test
-
-here are some latex equations.
-$$ a = b + c + \frac{1}{2}$$
-
-some more eq
-\begin{align}
-k  &= 2 \times \delta \\\\
-&= a + \mathbf{c}
-\end{align}
-
-some more eq with align inside double dollar:
-
-$$ \begin{align}
-k  &= 2 \times \delta \\
-&= a + \mathbf{c}
-\end{align} $$
---!>
-
