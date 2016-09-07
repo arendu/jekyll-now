@@ -14,19 +14,39 @@ For each language there are 4 plots, _all_, _short_, _medium_ and _long_ for dif
 
 
 French-English Experiments:  
+Varying stack size and translation options (in this experiment stack size was made equal to cube prune limit)  
 - All sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.all.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.all.time.vs.score.png)  
 - Short sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.short.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.short.time.vs.score.png)  
 - Medium sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.medium.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.medium.time.vs.score.png)  
 - Long lengths: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.long.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.long.time.vs.score.png)  
+Adjusting stack size in steps until it's equal to cube pruning limit. These experiments fix translation option size to 20.  
+- All sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.all.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.all.time.vs.score.vary.stack.png)  
+- Short sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.short.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.short.time.vs.score.vary.stack.png)  
+- Medium sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.medium.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.medium.time.vs.score.vary.stack.png)  
+- Long lengths: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.long.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/fr.long.time.vs.score.vary.stack.png)  
+
 
 German-English Experiments:  
+Varying stack size and translation options (in this experiment stack size was made equal to cube prune limit)  
 - All sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.all.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.all.time.vs.score.png)  
 - Short sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.short.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.short.time.vs.score.png)  
 - Medium sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.medium.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.medium.time.vs.score.png)  
 - Long lengths: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.long.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.long.time.vs.score.png)  
+Adjusting stack size in steps until it's equal to cube pruning limit. These experiments fix translation option size to 20.  
+- All sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.all.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.all.time.vs.score.vary.stack.png)  
+- Short sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.short.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.short.time.vs.score.vary.stack.png)  
+- Medium sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.medium.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.medium.time.vs.score.vary.stack.png)  
+- Long lengths: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.long.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/de.long.time.vs.score.vary.stack.png)  
+Adjusting stack size in steps until it's equal to cube pruning limit. These experiments fix translation option size to 20.  
 
 Spanish-English Experiments:  
+Varying stack size and translation options (in this experiment stack size was made equal to cube prune limit)  
 - All sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.all.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.all.time.vs.score.png)  
 - Short sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.short.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.short.time.vs.score.png)  
 - Medium sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.medium.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.medium.time.vs.score.png)  
 - Long lengths: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.long.time.vs.score.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.long.time.vs.score.png)  
+Adjusting stack size in steps until it's equal to cube pruning limit. These experiments fix translation option size to 20.  
+- All sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.all.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.all.time.vs.score.vary.stack.png)  
+- Short sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.short.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.short.time.vs.score.vary.stack.png)  
+- Medium sentences: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.medium.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.medium.time.vs.score.vary.stack.png)  
+- Long lengths: [interactive](https://cdn.rawgit.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.long.time.vs.score.vary.stack.html), [static](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/speed-vs-acc-plots/es.long.time.vs.score.vary.stack.png)  
