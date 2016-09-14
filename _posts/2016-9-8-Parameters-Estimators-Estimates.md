@@ -3,7 +3,7 @@ layout: post
 title: Parameters, Estimators and Estimates
 ---
 
-The causal inference class today covered some very basic ideas, that I frequently have problems with. I 'know' what estimates and estimators are but could not clearly explain them to a lay person (which probably reflects some holes in my knowledge). Today's class cleared some basic ideas.
+The causal inference class today covered some very basic ideas that I frequently have problems with. I 'know' what estimates and estimators are but could not clearly explain them to a lay person (which probably reflects some holes in my knowledge). Today's class cleared some basic ideas.
 
 1. A distribution $$p(x_1, x_2, \ldots, x_k)$$ captures some properties of the world.
 
