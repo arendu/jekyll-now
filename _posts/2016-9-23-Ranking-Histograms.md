@@ -9,4 +9,11 @@ Translations were generated with cube and stack size of 400 and translation opti
 - [ranking of best translation es](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/hist-plots/rankings.es.out.png)  
 - [ranking of best translation ru](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/hist-plots/rankings.ru.out.png)  
 
+Same plots in log-scale:
+
+- [ranking of best translation de](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/hist-plots/rankings.de.out.log.png)  
+- [ranking of best translation fr](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/hist-plots/rankings.fr.out.log.png)  
+- [ranking of best translation es](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/hist-plots/rankings.es.out.log.png)  
+- [ranking of best translation ru](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/hist-plots/rankings.ru.out.log.png)  
+
 
