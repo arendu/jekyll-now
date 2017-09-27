@@ -35,5 +35,5 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 [linkedin](https://www.linkedin.com/in/adithyarenduchintala)  
 [github](https://github.com/arendu)  
 [cv](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/resume.pdf)  
-[selfie](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie.jpg)  
+not a [selfie](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie.jpg)  
 
