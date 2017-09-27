@@ -8,6 +8,9 @@ I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](
 Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/).
 
 ### Publications
+[Knowledge Tracing in Sequential Learning of Inflected Vocabulary](http://www.cs.jhu.edu/~jason/papers/renduchintala+al.conll17.pdf)  
+*<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner, Conference on Computational Natural Language Learning (CoNLL), 2017.</small>*{: style="font-size: 75%"}  
+
 [User Modeling in Language Learning with Macaronic Texts.](http://aclweb.org/anthology/P/P16/P16-1175.pdf)  
 *<small>**Adithya Renduchintala**, Rebecca Knowles, Philipp Koehn and Jason Eisner, Annual Meeting of the Association for Computational Linguistics (ACL), 2016.</small>*{: style="font-size: 75%"}  
 
