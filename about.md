@@ -34,7 +34,6 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 
 ### Contact
 [adi.r@jhu.edu](mailto:adi.r@jhu.edu)  
-[stackoverflow](http://stackoverflow.com/users/2320784/adi)  
 [linkedin](https://www.linkedin.com/in/adithyarenduchintala)  
 [github](https://github.com/arendu)  
 [cv](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/resume.pdf)  
