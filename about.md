@@ -8,6 +8,12 @@ I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](
 Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/).
 
 ### Publications
+[Multi-Modal Data Augmentation for End-to-end ASR](https://arxiv.org/abs/1803.10299)  
+*<small>**Adithya Renduchintala**, Shuoyang Ding, Matthew Wiesner and Shinji Watanabe, Interspeech 2018.</small>*{: style="font-size: 75%"}  
+
+[ESPnet: End-to-End Speech Processing Toolkit](https://arxiv.org/abs/1804.00015)  
+*<small>Shinji Watanabe, Takaaki Hori, Shigeki Karita, Tomoki Hayashi, Jiro Nishitoba, Yuya Unno, Nelson Enrique Yalta Soplin, Jahn Heymann, Matthew Wiesner, Nanxin Chen, **Adithya Renduchintala**, Tsubasa Ochiai, Interspeech 2018.</small>*{: style="font-size: 75%"}  
+
 [Knowledge Tracing in Sequential Learning of Inflected Vocabulary](http://www.cs.jhu.edu/~jason/papers/renduchintala+al.conll17.pdf)  
 *<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner, Conference on Computational Natural Language Learning (CoNLL), 2017.</small>*{: style="font-size: 75%"}  
 
