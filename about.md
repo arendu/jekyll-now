@@ -9,7 +9,7 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 
 ### Publications
 [Multi-Modal Data Augmentation for End-to-end ASR](https://arxiv.org/abs/1803.10299)  
-*<small>**Adithya Renduchintala**, Shuoyang Ding, Matthew Wiesner and Shinji Watanabe, INTERSPEECH 2018.</small>*{: style="font-size: 75%"}  
+*<small>**Adithya Renduchintala**, Shuoyang Ding, Matthew Wiesner and Shinji Watanabe, INTERSPEECH 2018. <span style="color:red">(Best Student Paper)</span></small>*{: style="font-size: 75%"}  
 
 [ESPnet: End-to-End Speech Processing Toolkit](https://arxiv.org/abs/1804.00015)  
 *<small>Shinji Watanabe, Takaaki Hori, Shigeki Karita, Tomoki Hayashi, Jiro Nishitoba, Yuya Unno, Nelson Enrique Yalta Soplin, Jahn Heymann, Matthew Wiesner, Nanxin Chen, **Adithya Renduchintala**, Tsubasa Ochiai, INTERSPEECH 2018.</small>*{: style="font-size: 75%"}  
