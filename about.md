@@ -47,5 +47,5 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 [cv](http://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_6_20_2018.pdf)   
 [pic1](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie.jpg)
 [2](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie2.jpg)
-[3](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie3.jpg)  
+[3](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie3.jpg)
 [4](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie4.jpg)  
