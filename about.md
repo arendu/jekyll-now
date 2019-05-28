@@ -8,6 +8,12 @@ I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](
 Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/).
 
 ### Publications
+[A Call for prudent choice of Subword Merge Operations](https://arxiv.org/pdf/1905.10453.pdf)  
+*<small>Shuyang Ding, **Adithya Renduchintala** and Kevin Duh, Machine Translation Summit 2019 (To Applear)</small>*{: style="font-size: 75%"}  
+
+[Character-Aware Decoder for Translation into Morphologically Rich Languages](https://arxiv.org/pdf/1809.02223.pdf)  
+*<small>**Adithya Renduchintala** Pamela Shapiro, Kevin Duh and Philipp Koehn. Machine Translation Summit 2019 (To Applear)</small>*{: style="font-size: 75%"}  
+
 [Multi-Modal Data Augmentation for End-to-end ASR](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2456.html)
 [*<small><span style="color:red">Best Student Paper!</span></small>*{: style="font-size: 75%"}](https://www.clsp.jhu.edu/2018/09/06/clsp-students-win-best-student-paper-award-at-interspeech-2018/)  
 *<small>**Adithya Renduchintala**, Shuoyang Ding, Matthew Wiesner and Shinji Watanabe, INTERSPEECH 2018.</small>*{: style="font-size: 75%"}  
