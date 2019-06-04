@@ -5,7 +5,7 @@ I am a PhD student in the Center for Language and Speech Processing (CLSP) at Jo
 
 I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](http://www.cs.jhu.edu/~jason/). I also have worked with [Adam Lopez](http://alopez.github.io/) on finite automata based systems for machine translation and translation using Abstract Meaning Representations (AMR). Recently, I've worked on a few projects in End-to-End speech recognition with [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe).
 
-Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/). See my [cv](https://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_05_28_2019.pdf) for more details.
+Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/). See my [cv](https://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_6_3_2019.pdf) for more details.
 
 ### Publications
 [A Call for prudent choice of Subword Merge Operations](https://arxiv.org/pdf/1905.10453.pdf)  
