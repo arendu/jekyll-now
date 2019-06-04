@@ -46,11 +46,11 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 *<small>**Adithya Renduchintala**, Aisling Kelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006</small>*{: style="font-size: 75%"}   
 
 ### Contact
-Johns Hopkins University,  
-Center for Language & Speech Processing,  
-Hackerman Hall 226  
-3400 N Charles Street  
-Baltimore, MD 21218  
+Johns Hopkins University,   
+Center for Language & Speech Processing,   
+Hackerman Hall 226   
+3400 N Charles Street   
+Baltimore, MD 21218   
 [adi.r@jhu.edu](mailto:adi.r@jhu.edu)  
 
 ### Links
