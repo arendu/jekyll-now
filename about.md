@@ -5,7 +5,7 @@ I am a PhD student in the Center for Language and Speech Processing (CLSP) at Jo
 
 I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](http://www.cs.jhu.edu/~jason/). I also have worked with [Adam Lopez](http://alopez.github.io/) on finite automata based systems for machine translation and translation using Abstract Meaning Representations (AMR). Recently, I've worked on a few projects in End-to-End speech recognition with [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe).
 
-Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/).
+Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/). See my [cv](https://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_05_28_2019.pdf) for more details.
 
 ### Publications
 [A Call for prudent choice of Subword Merge Operations](https://arxiv.org/pdf/1905.10453.pdf)  
@@ -46,15 +46,14 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 *<small>**Adithya Renduchintala**, Aisling Kelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006</small>*{: style="font-size: 75%"}   
 
 ### Contact
+Johns Hopkins University,
+Center for Language & Speech Processing,
+Hackerman Hall 226
+3400 N Charles Street
+Baltimore, MD 21218
 [adi.r@jhu.edu](mailto:adi.r@jhu.edu)  
-[linkedin](https://www.linkedin.com/in/adithyarenduchintala)  
-[github](https://github.com/arendu)  
-<!---[cv](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/resume.pdf)--->
-<!--[cv](http://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_6_20_2018.pdf)-->
-<!--[cv](https://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_10_29_2018.pdf) --> 
-[cv](https://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_05_28_2019.pdf)  
 
-<!---[pic1](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie.jpg),
-[2](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie2.jpg),
-[3](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie3.jpg),
-[4](https://raw.githubusercontent.com/arendu/arendu.github.io/master/images/selfie4.jpg)-->
+### Links
+[github](https://github.com/arendu)  
+[stackoverflow](https://stackoverflow.com/users/2320784/a-d?tab=profile)  
+[linkedin](https://www.linkedin.com/in/adithyarenduchintala)  
