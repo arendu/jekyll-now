@@ -9,10 +9,10 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 
 ### Publications
 [Simple Construction of Mixed-Language Texts for Vocabulary Learning]()  
-*<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Annual Meeting of the Association for Computational Linguistics (ACL) Workshop on Innovative Use of NLP for Building Educational Applications, 2019 (To Appear)</small>*{: style="font-size": 75%"}
+*<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Annual Meeting of the Association for Computational Linguistics (ACL) Workshop on Innovative Use of NLP for Building Educational Applications, 2019 (To Appear)</small>*{: style="font-size: 75%"}
 
 [ Pretraining by Backtranslation for End-to-End ASR in Low-Resource Settings ]()  
-*<small>Matthew Wiesner, **Adithya Renduchintala**, Shinji Watanabe, Chunxi Li, Najim Dehak and Sanjeev Khudanpur, INTERSPEECH 2019 (To Appear)</small>*{: style="font-size": 75%"}
+*<small>Matthew Wiesner, **Adithya Renduchintala**, Shinji Watanabe, Chunxi Li, Najim Dehak and Sanjeev Khudanpur, INTERSPEECH 2019 (To Appear)</small>*{: style="font-size: 75%"}
 
 [A Call for prudent choice of Subword Merge Operations](https://arxiv.org/pdf/1905.10453.pdf)  
 *<small>Shuyang Ding, **Adithya Renduchintala** and Kevin Duh, Machine Translation Summit 2019 (To Applear)</small>*{: style="font-size: 75%"}  
