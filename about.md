@@ -8,10 +8,10 @@ I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](
 Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/). See my [CV](https://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_6_17_2019.pdf) for more details.
 
 ### Publications
-[Simple Construction of Mixed-Language Texts for Vocabulary Learning]()  
+[Simple Construction of Mixed-Language Texts for Vocabulary Learning](https://github.com/arendu/arendu.github.io/raw/master/images/Unsupervised_Mixed_Language_Generation_for_Lexical_Learning.pdf)  
 *<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Annual Meeting of the Association for Computational Linguistics (ACL) Workshop on Innovative Use of NLP for Building Educational Applications, 2019 (To Appear)</small>*{: style="font-size: 75%"}
 
-[ Pretraining by Backtranslation for End-to-End ASR in Low-Resource Settings ]()  
+[ Pretraining by Backtranslation for End-to-End ASR in Low-Resource Settings ](https://github.com/arendu/arendu.github.io/raw/master/images/PSDA_MMDA.pdf)  
 *<small>Matthew Wiesner, **Adithya Renduchintala**, Shinji Watanabe, Chunxi Li, Najim Dehak and Sanjeev Khudanpur, INTERSPEECH 2019 (To Appear)</small>*{: style="font-size: 75%"}
 
 [A Call for prudent choice of Subword Merge Operations](https://arxiv.org/pdf/1905.10453.pdf)  
