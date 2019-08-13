@@ -8,7 +8,7 @@ I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](
 Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/). See my [CV](https://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_6_17_2019.pdf) for more details.
 
 ### Publications
-[Simple Construction of Mixed-Language Texts for Vocabulary Learning](https://github.com/arendu/arendu.github.io/raw/master/images/Unsupervised_Mixed_Language_Generation_for_Lexical_Learning.pdf)  
+[Simple Construction of Mixed-Language Texts for Vocabulary Learning](https://www.aclweb.org/anthology/W19-4439)  
 *<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Annual Meeting of the Association for Computational Linguistics (ACL) Workshop on Innovative Use of NLP for Building Educational Applications, 2019 (To Appear)</small>*{: style="font-size: 75%"}
 
 [ Pretraining by Backtranslation for End-to-End ASR in Low-Resource Settings ](https://github.com/arendu/arendu.github.io/raw/master/images/PSDA_MMDA.pdf)  
@@ -27,7 +27,7 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 [ESPnet: End-to-End Speech Processing Toolkit](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1456.html)  
 *<small>Shinji Watanabe, Takaaki Hori, Shigeki Karita, Tomoki Hayashi, Jiro Nishitoba, Yuya Unno, Nelson Enrique Yalta Soplin, Jahn Heymann, Matthew Wiesner, Nanxin Chen, **Adithya Renduchintala**, Tsubasa Ochiai, INTERSPEECH 2018.</small>*{: style="font-size: 75%"}  
 
-[Knowledge Tracing in Sequential Learning of Inflected Vocabulary](http://www.cs.jhu.edu/~jason/papers/renduchintala+al.conll17.pdf)  
+[Knowledge Tracing in Sequential Learning of Inflected Vocabulary](https://www.aclweb.org/anthology/K17-1025)  
 *<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner, Conference on Computational Natural Language Learning (CoNLL), 2017.</small>*{: style="font-size: 75%"}  
 
 [User Modeling in Language Learning with Macaronic Texts.](http://aclweb.org/anthology/P/P16/P16-1175.pdf)  
