@@ -9,16 +9,16 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 
 ### Publications
 [Simple Construction of Mixed-Language Texts for Vocabulary Learning](https://www.aclweb.org/anthology/W19-4439)  
-*<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Annual Meeting of the Association for Computational Linguistics (ACL) Workshop on Innovative Use of NLP for Building Educational Applications, 2019 (To Appear)</small>*{: style="font-size: 75%"}
+*<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Annual Meeting of the Association for Computational Linguistics (ACL) Workshop on Innovative Use of NLP for Building Educational Applications, 2019</small>*{: style="font-size: 75%"}
 
 [ Pretraining by Backtranslation for End-to-End ASR in Low-Resource Settings ](https://github.com/arendu/arendu.github.io/raw/master/images/PSDA_MMDA.pdf)  
 *<small>Matthew Wiesner, **Adithya Renduchintala**, Shinji Watanabe, Chunxi Li, Najim Dehak and Sanjeev Khudanpur, INTERSPEECH 2019 (To Appear)</small>*{: style="font-size: 75%"}
 
-[A Call for prudent choice of Subword Merge Operations](https://arxiv.org/pdf/1905.10453.pdf)  
-*<small>Shuyang Ding, **Adithya Renduchintala** and Kevin Duh, Machine Translation Summit 2019 (To Applear)</small>*{: style="font-size: 75%"}  
+[A Call for prudent choice of Subword Merge Operations](https://www.aclweb.org/anthology/W19-6620)  
+*<small>Shuyang Ding, **Adithya Renduchintala** and Kevin Duh, Machine Translation Summit 2019 </small>*{: style="font-size: 75%"}  
 
-[Character-Aware Decoder for Translation into Morphologically Rich Languages](https://arxiv.org/pdf/1809.02223.pdf)  
-*<small>**Adithya Renduchintala** Pamela Shapiro, Kevin Duh and Philipp Koehn. Machine Translation Summit 2019 (To Applear)</small>*{: style="font-size: 75%"}  
+[Character-Aware Decoder for Translation into Morphologically Rich Languages](https://www.aclweb.org/anthology/W19-6624)  
+*<small>**Adithya Renduchintala** Pamela Shapiro, Kevin Duh and Philipp Koehn. Machine Translation Summit 2019 </small>*{: style="font-size: 75%"}  
 
 [Multi-Modal Data Augmentation for End-to-end ASR](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2456.html)
 [*<small><span style="color:red">Best Student Paper!</span></small>*{: style="font-size: 75%"}](https://www.clsp.jhu.edu/2018/09/06/clsp-students-win-best-student-paper-award-at-interspeech-2018/)  
