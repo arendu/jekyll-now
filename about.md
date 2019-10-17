@@ -9,7 +9,7 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 
 ### Publications
 [Spelling-Aware Construction of Macaronic Texts for Teaching Foreign-Language Vocabulary](https://www.cs.jhu.edu/~jason/papers/renduchintala+al.emnlp19.pdf)   
-*<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Emperical Methods in Natural Language Processing (EMNLP), 2019 (To Appear)</small>*{: style="font-size: 75%"}
+*<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Empirical Methods in Natural Language Processing (EMNLP), 2019 (To Appear)</small>*{: style="font-size: 75%"}
 
 [Simple Construction of Mixed-Language Texts for Vocabulary Learning](https://www.aclweb.org/anthology/W19-4439)  
 *<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Annual Meeting of the Association for Computational Linguistics (ACL) Workshop on Innovative Use of NLP for Building Educational Applications, 2019</small>*{: style="font-size: 75%"}
