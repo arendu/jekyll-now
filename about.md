@@ -8,6 +8,9 @@ I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](
 Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/). See my [CV](https://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_6_17_2019.pdf) for more details.
 
 ### Publications
+[A Language Learning Framework based on Macaronic Texts](images/arendu_thesis_lib_submit_a_1b_preflight_try2.pdf)   
+*<small>**Adithya Renduchintala** 2020 </small>*{: style="font-size: 75%"}
+
 [Spelling-Aware Construction of Macaronic Texts for Teaching Foreign-Language Vocabulary](https://www.aclweb.org/anthology/D19-1679)   
 *<small>**Adithya Renduchintala**, Philipp Koehn and Jason Eisner. Empirical Methods in Natural Language Processing (EMNLP), 2019 </small>*{: style="font-size: 75%"}
 
