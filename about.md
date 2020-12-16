@@ -1,7 +1,9 @@
 ---
 layout: page
 ---
-I am a PhD student in the Center for Language and Speech Processing (CLSP) at Johns Hopkins University. My primary research is in building computational models for user modeling, specifically in language learning. I apply techniques from Natural Language Processing (NLP), Machine Translation (MT), and Machine Learning (ML) towards this problem. 
+I am a Research Scientist at the Language and Translation Technologies groups (LATTE) in Facebook AI. I work on problems related in Neural Machine Translation. 
+
+Before that, I was a PhD student in the Center for Language and Speech Processing (CLSP) at Johns Hopkins University. My primary research is in building computational models for user modeling, specifically in language learning. I apply techniques from Natural Language Processing (NLP), Machine Translation (MT), and Machine Learning (ML) towards this problem. 
 
 I am advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](http://www.cs.jhu.edu/~jason/). I also have worked with [Adam Lopez](http://alopez.github.io/) on finite automata based systems for machine translation and translation using Abstract Meaning Representations (AMR). I've also worked with [Kevin duh](http://cs.jhu.edu/~kevinduh/) on character-aware NMT modeling as well as an analysis on the effect of Byte-pair encoding on NMT performance. Recently, I've worked on a few projects in End-to-End speech recognition with [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe).
 
