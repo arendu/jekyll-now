@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-I am a Research Scientist at the Language and Translation Technologies groups (LATTE) in Facebook AI. I work on problems related in Neural Machine Translation. 
+I am a Research Scientist in the Language and Translation Technologies group (LATTE) at Facebook AI. I work on problems related to Neural Machine Translation. 
 
 Before that, I was a PhD student in the Center for Language and Speech Processing (CLSP) at Johns Hopkins University. My primary research is in building computational models for user modeling, specifically in language learning. I apply techniques from Natural Language Processing (NLP), Machine Translation (MT), and Machine Learning (ML) towards this problem. 
 
