@@ -5,11 +5,23 @@ I am a Research Scientist in the Language and Translation Technologies group (LA
 
 Before that, I was a PhD student in the Center for Language and Speech Processing (CLSP) at Johns Hopkins University. My primary research is in building computational models for user modeling, specifically in language learning. I apply techniques from Natural Language Processing (NLP), Machine Translation (MT), and Machine Learning (ML) towards this problem. 
 
-I was advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](http://www.cs.jhu.edu/~jason/). I also have worked with [Adam Lopez](http://alopez.github.io/) on finite automata based systems for machine translation and translation using Abstract Meaning Representations (AMR). I've also worked with [Kevin duh](http://cs.jhu.edu/~kevinduh/) on character-aware NMT modeling as well as an analysis on the effect of Byte-pair encoding on NMT performance. Recently, I've worked on a few projects in End-to-End speech recognition with [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe).
+I was advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner](http://www.cs.jhu.edu/~jason/). I also have worked with [Adam Lopez](http://alopez.github.io/) on finite automata based systems for machine translation and translation using Abstract Meaning Representations (AMR). I've also worked with [Kevin duh](http://cs.jhu.edu/~kevinduh/) on character-aware NMT modeling as well as an analysis on the effect of Byte-pair encoding on NMT performance. Recently, I've worked on a few projects in End-to-End speech recognition with [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe). During my PhD I Interned at Duolingo under the guidance of [Burr Settles](http://burrsettles.com/) working on robust word-embedding models and chatbots for language learners.
 
 Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/). See my [CV](https://nbviewer.jupyter.org/github/arendu/arendu.github.io/blob/master/images/resume_6_17_2019.pdf) for more details.
 
 ### Publications
+[Neural Machine Translation with Deep Encoder and Multiple Shallow Decoders](https://2021.eacl.org/program/accepted/#long-papers)  
+*<small>Xiang Kong, **Adithya Renduchintala**, James Cross, Yuqing Tang, Jiatao Gu and Xian Li, European Chapter of the Association for Computational Linguistics (EACL), 2021 (To Appear)</small>*{: style="font=size: 75%"}
+
+[Quality Estimation without Human-labeled Data](https://2021.eacl.org/program/accepted/#short-papers)  
+*<small>Yi-Lin Tuan, Ahmed El-Kishky, **Adithya Renduchintala**, Vishrav Chaudhary, Francisco Guzman, Lucia Specia. European Chapter of the Association for Computational Linguistics (EACL), 2021 (To Appear)</small>*{: style="font=size: 75%"}
+
+[Machine Translation quality across demographic dialectal variation in Social Media]({https://www.aclweb.org/anthology/2020.amta-user.8.pdf)  
+*<small>**Adithya Renduchintala** and Dmitriy Genzel, Association for Machine Translation in the Americas (AMTA), MT User Track, 2020.</small>*{: style="font=size: 75%"}
+
+[An Exploratory Study on Multilingual Quality Estimation](https://www.aclweb.org/anthology/2020.aacl-main.39.pdf)
+*<small>Shuo Sun, Marina Fomicheva, Frederic Blain, Vishrav Chaudhary, Ahmed El-Kishky, **Adithya Renduchintala** , Francisco Guzman and Lucia Specia. Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP) 2020  </small>*{: style="font-size: 75%"}
+
 [A Language Learning Framework based on Macaronic Texts](images/arendu_thesis_really_fixed.pdf)   
 *<small>**Adithya Renduchintala** 2020 </small>*{: style="font-size: 75%"}
 
@@ -59,6 +71,11 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 [Creating serendipitous encounters in a geographically distributed community](http://sundaram.cs.illinois.edu/pubs/2006/hcm17-Renduchintala.pdf)  
 *<small>**Adithya Renduchintala**, Aisling Kelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006</small>*{: style="font-size: 75%"}   
 
+### Presentations
+[Machine Translation quality across demographic dialectal variation in Social Media.](https://www.aclweb.org/anthology/2020.amta-user.8/)
+*<small>**Adithya Renduchintala** and Dmitriy Genzel. Conference of the Association for Machine Translation in the Americas (AMTA) User Track 2020 </small>*{: style="font-size: 75%"}   
+
+Association for Machine Translation in the Americas (Volume 2: User Track) 2020
 ### Contact
 Johns Hopkins University,   
 Center for Language & Speech Processing,   
