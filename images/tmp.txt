@@ -1,1 +1,7 @@
-hi this is a test
+@misc{renduchintala-etal-2019-controllable,
+	title={Controllable Macaronic Language Generationfor Language Learning},
+	url={https://arendu.github.io/images/Generating_Mixed_Language_via_Neural_Machine_Translation.pdf},
+	author = "Renduchintala, Adithya  and Koehn, Philipp  and Eisner, Jason",
+	year={2019},
+	month={July}
+}
