@@ -78,7 +78,7 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 Association for Machine Translation in the Americas (Volume 2: User Track) 2020
 
 ### Preprints
-[Controllable Macaronic Language Generationfor Language Learning](images/Generating_Mixed_Language_via_Neural_Machine_Translation.pdf) [*<small>bib</small>*{: style="font-size:75%"}](images/tmp.bib)  
+[Controllable Macaronic Language Generationfor Language Learning](images/Generating_Mixed_Language_via_Neural_Machine_Translation.pdf) [*<small>bib</small>*{: style="font-size:75%"}](images/tmp.txt)  
 *<small>**Adithya Renduchintala**, Philipp Koehn, Jason Eisner 2019 </small>*{: style="font-size: 75%"}   
 
 
