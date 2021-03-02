@@ -9,7 +9,7 @@ I was advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Jason Eisner]
 
 Before joining CLSP, I worked on designing new modalities of user interaction at the [Arts Media & Engineering](https://artsmediaengineering.asu.edu/) program. I also worked at [Rosetta Stone](http://www.rosettastone.com/) as a software developer and did a brief stint as an NLP engineer at [MModal](https://mmodal.com/). See my [CV](images/resume_02_24_2021.pdf) for more details.
 
-### Publications
+### [*Publications*{: style="color: black"}](#publications)  
 [Neural Machine Translation with Deep Encoder and Multiple Shallow Decoders](https://2021.eacl.org/program/accepted/#long-papers)  
 *<small>Xiang Kong, **Adithya Renduchintala**, James Cross, Yuqing Tang, Jiatao Gu and Xian Li, European Chapter of the Association for Computational Linguistics (EACL), 2021 (To Appear) </small>*{: style="font-size: 75%"}
 
@@ -75,12 +75,12 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 [Machine Translation quality across demographic dialectal variation in Social Media.](https://www.aclweb.org/anthology/2020.amta-user.8/)
 *<small>**Adithya Renduchintala** and Dmitriy Genzel. Conference of the Association for Machine Translation in the Americas (AMTA) User Track 2020 </small>*{: style="font-size: 75%"}   
 
-### Preprints
+### [*Preprints*{: style="color: black"}](#preprints)  
 [Controllable Macaronic Language Generationfor Language Learning](images/Generating_Mixed_Language_via_Neural_Machine_Translation.pdf) [*<small>\[bib\]</small>*{: style="font-size:75%"}](images/tmp.txt)  
 *<small>**Adithya Renduchintala**, Philipp Koehn, Jason Eisner 2019 </small>*{: style="font-size: 75%"}   
 
 
-### Contact
+### [*Contact*{: style="color: black"}](#contact)  
 Johns Hopkins University,   
 Center for Language & Speech Processing,   
 Hackerman Hall 226   
@@ -88,7 +88,7 @@ Hackerman Hall 226
 Baltimore, MD 21218   
 [adi.r@jhu.edu](mailto:adi.r@jhu.edu)  
 
-### Links
+### [*Links*{: style="color: black"}](#links)  
 [github](https://github.com/arendu)  
 [stackoverflow](https://stackoverflow.com/users/2320784/a-d?tab=profile)  
 [linkedin](https://www.linkedin.com/in/adithyarenduchintala)  
