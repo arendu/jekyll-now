@@ -71,7 +71,7 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 [Creating serendipitous encounters in a geographically distributed community](http://sundaram.cs.illinois.edu/pubs/2006/hcm17-Renduchintala.pdf)  
 *<small>**Adithya Renduchintala**, Aisling Kelliher, Hari Sundaram, ACM international workshop on Human-centered multimedia. 2006</small>*{: style="font-size: 75%"}   
 
-[### Presentations](#presentations)
+### [Presentations](#presentations)  
 [Machine Translation quality across demographic dialectal variation in Social Media.](https://www.aclweb.org/anthology/2020.amta-user.8/)
 *<small>**Adithya Renduchintala** and Dmitriy Genzel. Conference of the Association for Machine Translation in the Americas (AMTA) User Track 2020 </small>*{: style="font-size: 75%"}   
 
