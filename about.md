@@ -75,7 +75,6 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 [Machine Translation quality across demographic dialectal variation in Social Media.](https://www.aclweb.org/anthology/2020.amta-user.8/)
 *<small>**Adithya Renduchintala** and Dmitriy Genzel. Conference of the Association for Machine Translation in the Americas (AMTA) User Track 2020 </small>*{: style="font-size: 75%"}   
 
-
 ### Preprints
 [Controllable Macaronic Language Generationfor Language Learning](images/Generating_Mixed_Language_via_Neural_Machine_Translation.pdf) [*<small>\[bib\]</small>*{: style="font-size:75%"}](images/tmp.txt)  
 *<small>**Adithya Renduchintala**, Philipp Koehn, Jason Eisner 2019 </small>*{: style="font-size: 75%"}   
