@@ -76,6 +76,12 @@ Before joining CLSP, I worked on designing new modalities of user interaction at
 *<small>**Adithya Renduchintala** and Dmitriy Genzel. Conference of the Association for Machine Translation in the Americas (AMTA) User Track 2020 </small>*{: style="font-size: 75%"}   
 
 Association for Machine Translation in the Americas (Volume 2: User Track) 2020
+
+### Preprints
+[Controllable Macaronic Language Generationfor Language Learning](images/Generating_Mixed_Language_via_Neural_Machine_Translation.pdf)  
+*<small>**Adithya Renduchintala**, Philipp Koehn, Jason Eisner 2019 </small>*{: style="font-size: 75%"}   
+
+
 ### Contact
 Johns Hopkins University,   
 Center for Language & Speech Processing,   

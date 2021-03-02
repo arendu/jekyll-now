@@ -1,0 +1,15 @@
+2021-02-24:11:02 adirendu-mbp   412  cd images/
+2021-02-24:11:02 adirendu-mbp   413  ls
+2021-02-24:11:02 adirendu-mbp   414  cp ~/Downloads/adi_resume.pdf resume_02_24_2021.pdf
+2021-02-24:11:03 adirendu-mbp   415  git add resume_02_24_2021.pdf 
+2021-02-24:11:03 adirendu-mbp   416  git commit -m "updated"
+2021-02-24:11:03 adirendu-mbp   417  git push
+2021-02-24:11:13 adirendu-mbp   418  pwd
+2021-02-24:11:25 adirendu-mbp   424  cd images/
+2021-02-24:11:25 adirendu-mbp   425  ls
+2021-02-24:11:25 adirendu-mbp   426  cp ~/Downloads/adi_resume_margin.pdf resume_02_24_2021.pdf 
+2021-02-24:11:25 adirendu-mbp   427  git add resume_02_24_2021.pdf 
+2021-02-24:11:25 adirendu-mbp   428  git commit -m "update"
+2021-02-24:11:25 adirendu-mbp   429  git push
+2021-03-02:10:52 adirendu-mbp   502  cd images/
+2021-03-02:10:52 adirendu-mbp   503  cp ~/Downloads/Generating_Mixed_Language_via_Neural_Machine_Translation.pdf  .
